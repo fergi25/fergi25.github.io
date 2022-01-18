@@ -1,5 +1,5 @@
 function myFunction() {
-    location.href = "Cart.php";
+    location.href = "Cart.html";
   }
 
 function myButton() {
